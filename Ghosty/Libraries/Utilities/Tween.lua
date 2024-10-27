@@ -4,7 +4,7 @@
 
     @description Library for creating tweens with more functionality
     than the existing Roblox tween service
-    @author AstrealDev
+    @author TheCobraBoy2
 
 ]]
 

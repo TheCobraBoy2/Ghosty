@@ -4,7 +4,7 @@
 
     @description Library for creating components, containers of instances
     that can have events binded to them in bulk
-    @author AstrealDev
+    @author TheCobraBoy2
 
 ]]
 

@@ -3,7 +3,7 @@
     Libraries/Utilities/Table
 
     @description Library providing more features for table manipulation
-    @author AstrealDev
+    @author TheCobraBoy2
 
 ]]
 

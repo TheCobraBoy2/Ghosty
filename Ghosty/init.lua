@@ -1,7 +1,7 @@
 --[[
 
 	Ghosty // Game Framework
-	Created by AstrealDev
+	Created by TheCobraBoy2
 	
 	Version 1.1.0
 
