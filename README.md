@@ -12,7 +12,7 @@ While other game frameworks exist (most notably AGF & Knit), Ghosty provides a d
 * [Latest Release - Rojo Support](https://thecobraboy2.github.io/Ghosty/releases)
 
 ### Documentation
-Check out the [Official Ghosty Documentation](https://astrealrblx.github.io/Ghosty/) for documentation and a full tutorial on the various features of Ghosty.
+Check out the [Official Ghosty Documentation](https://thecobraboy2.github.io/Ghosty/) for documentation and a full tutorial on the various features of Ghosty.
 
 ### Example
 ```lua
