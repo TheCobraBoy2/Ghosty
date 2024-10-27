@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/80359818/120092800-e199e300-c0e3-11eb-9e70-bb087f297184.png" width="42" align="left"> Ghosty
+# <img src="site\assets\logo.png" width="42" align="left"> Ghosty
 
 ### What is Ghosty?
 An intuitive and feature-packed Roblox game framework.
