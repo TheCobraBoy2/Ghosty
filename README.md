@@ -5,11 +5,11 @@ An intuitive and feature-packed Roblox game framework.
 
 
 ### Why Ghosty?
-While other game frameworks exist (most notably AGF & Knit), Ghosty provides a different feature set as well as a different focus. Ghosty was created around the idea that organization comes before everything else. Many games tend to quickly become disorganized as they get populated with more and more scripts. Ghosty solves this problem through [executables](https://github.com/astrealRBLX/Ghosty/wiki/Executables), module scripts Ghosty can read and assign to the server and client for simple communication between them. Ghosty also makes giving users the ability to manipulate the control flow of their scripts a priority including in an asynchronous manner.
+While other game frameworks exist (most notably AGF & Knit), Ghosty provides a different feature set as well as a different focus. Ghosty was created around the idea that organization comes before everything else. Many games tend to quickly become disorganized as they get populated with more and more scripts. Ghosty solves this problem through [executables](https://thecobraboy2.github.io/Ghosty/wiki/Executables), module scripts Ghosty can read and assign to the server and client for simple communication between them. Ghosty also makes giving users the ability to manipulate the control flow of their scripts a priority including in an asynchronous manner.
 
 ### Get Ghosty
 * [Roblox Model](https://www.roblox.com/library/6892133318/Ghosty)
-* [Latest Release - Rojo Support](https://github.com/astrealRBLX/Ghosty/releases)
+* [Latest Release - Rojo Support](https://thecobraboy2.github.io/Ghosty/releases)
 
 ### Documentation
 Check out the [Official Ghosty Documentation](https://astrealrblx.github.io/Ghosty/) for documentation and a full tutorial on the various features of Ghosty.

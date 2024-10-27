@@ -10,7 +10,7 @@ Starting with Ghosty is straightforward, easy, and user-friendly.
 
 === "With Rojo"
 
-    1. Download the ZIP from the latest release [here](https://github.com/astrealRBLX/Ghosty/releases).
+    1. Download the ZIP from the latest release [here](https://thecobraboy2.github.io/Ghosty/releases).
     2. Unzip it and drag Ghosty into your Rojo project's `src` directory.
     3. Make sure to add Ghosty's `$path` under `ReplicatedStorage` in your `default.project.json`
 
